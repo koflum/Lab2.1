@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practical 2.1</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="update">UPDATE PROFILE</string>
+    <string name="save">Save</string>
+    <string name="image">Image</string>
+    <string name="input_name">Name</string>
+    <string name="input_email">Email</string>
+    <string name="visit">VisitTarc</string>
+</resources>
